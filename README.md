@@ -12,10 +12,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)
 -->
 
-- :smile:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
-- :blowfish:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD))
-action=home&__biz=MzkyNDI4OTc1OA==&scene=124&uin=&key=&devicetype=Windows+10+x64&version=63030532&lang=zh_CN&a8scene=7&fontgear=2) 
-
+- thinking:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
+- :snowman:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD)
+- 
 **技术栈介绍**
 - 前端：三件套 Vue.js
 - 后端：Spring Boot C++ Linux
