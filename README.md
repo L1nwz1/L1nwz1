@@ -12,7 +12,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)
 -->
 
-- thinking:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
+- :thinking:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
 - :snowman:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD)
 - 
 **技术栈介绍**
