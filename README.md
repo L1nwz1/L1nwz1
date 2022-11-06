@@ -15,7 +15,7 @@
 - :smile_cat:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
 - :kissing_heart:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD)
 
-**~~（目标）~~技术栈**
+**（目标）技术栈**
 - 前端：三件套 Vue.js
 - 后端：Spring Boot C++ Linux
 - 数据库：SQL Server MySQL
