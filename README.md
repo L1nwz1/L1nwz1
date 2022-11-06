@@ -7,6 +7,7 @@
 ### 你好，我是L1nwz1
 **一只在校大学生，热爱code，乐于分享**
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=L1nwz1" /> </div>
 
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)
