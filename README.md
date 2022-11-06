@@ -8,7 +8,9 @@
 **一只在校大学生，热爱code，乐于分享**
 
 
-<!--![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)>
+<!--
+![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)
+-->
 
 - :smile:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
 - :blowfish:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD))
