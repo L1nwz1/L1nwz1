@@ -1,6 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiL1nwz1anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/L1nwz1anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://metrics.lecoq.io/L1nwz1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 <!--
 **L1nwz1/L1nwz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
