@@ -4,8 +4,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nwz1&layout=compact&theme=algolia&hide=html,css,JavaScript" />
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=L1nwz1" /> </div>
-
 ### 你好，我是L1nwz1
 **一只在校大学生，热爱code，乐于分享**
 
