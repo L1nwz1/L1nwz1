@@ -4,9 +4,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nwz1&layout=compact&theme=algolia&hide=html,css,JavaScript" />
 
-### 你好，我是L1nwz1
-**一只在校大学生，热爱coding**
-
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)
 -->
