@@ -1,9 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&lines=Hi+there+%F0%9F%91%8B;Here's+L1nwz1)](https://git.io/typing-svg)
-
-<img src="https://github-readme-stats.vercel.app/api?username=L1nwz1&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nwz1&layout=compact&theme=algolia&hide=html,css,JavaScript" />
-
 <!--
 ![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)
 -->
@@ -13,6 +8,9 @@
 - :crying_cat_face:  Leetcode : [ovo](https://leetcode.cn/u/l1nwz1/)
 - :yawning_face:  个人博客 : [L1nwz1的个人博客](http://l1nwz1.ink)
 
+<img src="https://github-readme-stats.vercel.app/api?username=L1nwz1&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nwz1&layout=compact&theme=algolia&hide=html,css,JavaScript" />
 
 <!--
 **（目标）技术栈**
