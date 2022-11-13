@@ -8,11 +8,11 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)
 -->
 
-<!--
 - :smile_cat:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
 - :kissing_heart:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD)
 - :crying_cat_face:  Leetcode : [ovo](https://leetcode.cn/u/l1nwz1/)
--->
+- :yawning_fack:  个人博客 : [L1nwz1的个人博客](http://l1nwz1.ink)
+
 
 <!--
 **（目标）技术栈**
