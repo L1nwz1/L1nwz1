@@ -1,11 +1,11 @@
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&lines=Hi+there+%F0%9F%91%8B;Here's+L1nwz1)](https://git.io/typing-svg)
-<!--
+
 (url)![](https://visitor-badge.glitch.me/badge?page_id=L1nwz1.readme)
--->
-<!--
+
+
 - :smile_cat:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
--->
+
 - :kissing_heart:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD)
 - :crying_cat_face:  Leetcode : [ovo](https://leetcode.cn/u/l1nwz1/)
 
@@ -13,13 +13,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nwz1&layout=compact&theme=algolia&hide=html,css,JavaScript" />
 
-<!--
+
 **（目标）技术栈**
 - 前端：三件套 Vue.js
 - 后端：Spring Boot C++ Linux
 - 数据库：SQL Server MySQLe
 - 大数据：...
--->
+
 
 ![Metrics](https://metrics.lecoq.io/L1nwz1?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 -->
@@ -40,4 +40,4 @@ I'm L1nwz1. A student in HDU.
 
 &ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Unity](https://img.shields.io/badge/-Unity-181717?style=flat-square&logo=Unity&logoColor=fff) ![Chrome](https://img.shields.io/badge/Google_chrome-ff822d?style=flat-square&logo=Google-chrome&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white)
 
- <img height="175px" src="https://github-readme-stats.vercel.app/api/?username=L1nwz1&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poivre-hxx&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&role=OWNER,COLLABORATOR" alt="Top Langs" />
+ <img height="175px" src="https://github-readme-stats.vercel.app/api/?username=L1nwz1&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nwz1-&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&role=OWNER,COLLABORATOR" alt="Top Langs" />
