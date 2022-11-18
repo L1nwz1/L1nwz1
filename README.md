@@ -38,7 +38,7 @@ I'm L1nwz1. A student in HDU.
 
 ⚡ I like to use these tools: 
 
-&ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=flat-square&logo=Visual%20Studio&logoColor=fff) ![Unity](https://img.shields.io/badge/-Unity-181717?style=flat-square&logo=Unity&logoColor=fff) ![Chrome](https://img.shields.io/badge/Google_chrome-ff822d?style=flat-square&logo=Google-chrome&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white) ![Tmux](https://img.shields.io/badge/Tmux-cccccc?style=flat-square&logo=tmux&logoColor=000000)
+&ensp;&ensp;&ensp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple?style=flat-square&logo=Visual%20Studio&logoColor=fff) ![Unity](https://img.shields.io/badge/-Unity-181717?style=flat-square&logo=Unity&logoColor=fff) ![Chrome](https://img.shields.io/badge/Google_chrome-ff822d?style=flat-square&logo=Google-chrome&logoColor=white) ![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=fff) ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white) ![Tmux]([https://img.shields.io/badge/Tmux-005C84?style=flat-square&logo=tmux&logoColor=000000])
 
 🌅 I’m now practicing in:
 
