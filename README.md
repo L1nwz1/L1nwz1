@@ -26,7 +26,7 @@
 
 ### Hi there 👋
 
-I'm L1nwz1. A student in HDU.
+I'm L1nwz1.
 
 🌱 I know NOTHING about these following things: 
 
