@@ -28,7 +28,7 @@
 
 I'm L1nwz1.
 
-🌱 I know NOTHING about these following things: 
+<!--🌱 I know NOTHING about these following things: 
 
 &ensp;&ensp;&ensp;![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=fff) ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=fff) ![c++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=fff) ![nodejs](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=fff) ![SpringBoot](https://img.shields.io/badge/SpringBoot-66cc00?style=flat-square&logo=spring%20boot&logoColor=fff) ![Docker](https://img.shields.io/badge/-Docker-181717?style=flat-square&logo=Docker&logoColor=fff)
 
@@ -43,5 +43,5 @@ I'm L1nwz1.
 🌅 I’m now practicing in:
 
 &ensp;&ensp;&ensp;![Bilibili](https://img.shields.io/badge/Bilibili-FE7398?style=flat-square&logo=bilibili&logoColor=white) ![Leetcode](https://img.shields.io/badge/Leetcode-FFB41E?style=flat-square&logo=leetcode&logoColor=black)
-
+-->
  <img height="175px" src="https://github-readme-stats.vercel.app/api/?username=L1nwz1&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nwz1&layout=compact&langs_count=8&count_private=true&show_icons=true&theme=tokyonight&role=OWNER,COLLABORATOR" alt="Top Langs" />
