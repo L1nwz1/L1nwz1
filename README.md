@@ -1,3 +1,4 @@
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?pause=500&lines=Hi+there+%F0%9F%91%8B;Here's+L1nwz1)](https://git.io/typing-svg)
 
@@ -6,8 +7,7 @@
 
 - :smile_cat:  CSDN : [Lin-1](https://blog.csdn.net/Linwz1?spm=1000.2115.3001.5343)
 
-- :kissing_heart:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD)
-- :crying_cat_face:  Leetcode : [ovo](https://leetcode.cn/u/l1nwz1/)
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=L1nwz1&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
 
@@ -27,6 +27,12 @@
 ### Hi there 👋
 
 I'm L1nwz1.
+A code-lover inspired by interests
+like ACGN(weebs in
+I'm glad to meet more like-minded people .
+みんなと友達になれてうれしいです.
+- :kissing_heart:  哔哩哔哩 : [凛冽谷的伊鲁席尔](https://b23.tv/sDI6qfD)
+- :smile_cat:  Leetcode : [ovo](https://leetcode.cn/u/l1nwz1/)
 
 <!--🌱 I know NOTHING about these following things: 
 
