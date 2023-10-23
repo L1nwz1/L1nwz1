@@ -26,14 +26,11 @@
 
 ### Hi there 👋
 
-I'm L1nwz1.\
+I'm L1nwz1.
 A code-lover inspired by interests.  
-
 like ACGN(weebs in  
-
 I'm glad to meet more like-minded people.  
-
-みんなと友達になれてうれしいです.
+みんなと友達になれてうれしいです.  
 - :kissing_heart:  哔哩哔哩 : [喜多kita-](https://b23.tv/sDI6qfD)
 - :smile_cat:  Leetcode : [ovo](https://leetcode.cn/u/l1nwz1/)
 
