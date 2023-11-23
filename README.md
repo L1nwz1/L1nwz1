@@ -32,7 +32,7 @@ like ACGN(weebs in
 I'm glad to meet more like-minded people.  
 みんなと友達になれてうれしいです.  
 - :kissing_heart:  哔哩哔哩 : [喜多kita-](https://b23.tv/sDI6qfD)
-- :smile_cat:  Leetcode : [ovo](https://leetcode.cn/u/l1nwz1/)
+- :smile_cat:  Steam : [Kita](https://steamcommunity.com/id/KitaIkuyo114)
 
 <!--🌱 I know NOTHING about these following things: 
 
