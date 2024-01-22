@@ -28,7 +28,7 @@
 
 I'm L1nwz1.
 A code-lover inspired by interests.  
-like ACGN(weebs in  
+like ACGN
 I'm glad to meet more like-minded people.  
 みんなと友達になれてうれしいです.  
 
